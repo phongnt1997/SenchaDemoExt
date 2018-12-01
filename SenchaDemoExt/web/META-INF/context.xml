@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SenchaDemoExt">
+    <Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="PHONG" password="12345678" 
+            type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=MemberManagerment;instanceName=PHONGNT" 
+            username="sa"/>
+</Context>
+
